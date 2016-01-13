@@ -25,12 +25,6 @@
   },
   {
     "remote": "CyanogenMod",
-    "repository": "android_hardware_sony_thermanager",
-    "target_path": "hardware/sony/thermanager",
-    "revision": "cm-13.0"
-  },
-  {
-    "remote": "CyanogenMod",
     "repository": "android_external_sony_boringssl-compat",
     "target_path": "external/sony/boringssl-compat",
     "revision": "cm-13.0"
