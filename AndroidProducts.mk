@@ -13,4 +13,4 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_d855.mk
+    $(LOCAL_DIR)/gzosp_d855.mk
